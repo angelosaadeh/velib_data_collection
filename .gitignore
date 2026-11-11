@@ -3,6 +3,7 @@ data_1/
 papers/
 data/
 issues.md
+TODO.md
 check_parquet.ipynb
 
 __pycache__/
